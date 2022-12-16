@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Olá, eu sou o Italo!
 
 - 🔭 Estudando programação 
 - 🌱 Desenvolvedor web
