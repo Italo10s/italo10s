@@ -1,8 +1,8 @@
 Olá, seja bem-vindo ao meu perfil!
 
-- 🔭 Estudando programação 
-- 🌱 Desenvolvedor web
-- 🤔 Buscando aprender coisas novas
+- Estudando programação 
+- Desenvolvedor web
+- Buscando aprender coisas novas
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
