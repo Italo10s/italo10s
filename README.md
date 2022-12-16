@@ -1,4 +1,4 @@
-Olá, eu sou o Italo!
+Olá, seja bem-vindo ao meu perfil!
 
 - 🔭 Estudando programação 
 - 🌱 Desenvolvedor web
